@@ -1,4 +1,4 @@
-# Hey there! Im Rehan Ahmed
+# Hey there! I'm Rehan Ahmed
 
 **Languages:**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) 
