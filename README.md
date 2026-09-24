@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F766E&height=180&section=header&text=Rehan%20Ahmed&fontSize=44&fontColor=E2E8F0&animation=fadeIn&desc=Software%20developer%20%C2%B7%20Dehradun%2C%20India&descSize=16&descAlignY=70" alt="Rehan Ahmed" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1200&color=0D9488&center=true&vCenter=true&width=560&lines=Learning+by+building+backend+things;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+PostgreSQL;Final-year+BCA+student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1200&color=0D9488&center=true&vCenter=true&width=560&lines=Learning+by+building+backend+things;Node.js+%C2%B7+TypeScript+%C2%B7+Docker+%C2%B7+PostgreSQL;Final-year+BCA+student" alt="Typing SVG" />
 
 <br/>
 
